@@ -1,4 +1,4 @@
-# typescript-day-tasks-sakib
+# Typescript-day-tasks-Sakib-Hossain
 
 **TypeScript — Day 1 Summary**
 
